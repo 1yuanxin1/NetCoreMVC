@@ -1,0 +1,4 @@
+# Visual Studio 
+!.gitignore 
+!/bin/ 
+!/obj/
